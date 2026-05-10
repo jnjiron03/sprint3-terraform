@@ -1,0 +1,1 @@
+[![Terraform Validate](https://github.com/jnjiron03/sprint3-terraform/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/jnjiron03/sprint3-terraform/actions/workflows/terraform-validate.yml)
