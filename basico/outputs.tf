@@ -7,3 +7,5 @@ output "bucket_modulo_arn" {
   description = "ARN del bucket creado por el módulo"
   value       = module.bucket_modulo.bucket_arn
 }
+# update
+# more
