@@ -30,4 +30,3 @@ module "bucket_modulo" {
   environment       = "local"
   enable_versioning = true
 }
-resource "aws_s3_bucket" "roto" {
