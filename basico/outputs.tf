@@ -9,3 +9,8 @@ output "bucket_modulo_arn" {
 }
 # update
 # more
+
+output "bucket_region" {
+  description = "Región del bucket S3"
+  value       = "us-east-1"
+}
